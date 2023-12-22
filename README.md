@@ -10,3 +10,5 @@ added more names, states, and cities.
 added many many more names, states, cities, last names, and
 added an age calculator based on the birthday compared
 to the value of the current system date
+## Update 3
+added hundreds of first and last names, configuring address generation next
