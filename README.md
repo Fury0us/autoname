@@ -1,5 +1,5 @@
 # autoname
-Fake User Info Generator (Early Stages)
+Fake User Info Generator
 ## function
 generates fake user information
 ## DISCLAIMER
