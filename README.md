@@ -17,6 +17,8 @@ new features may include:
 email name generation,
 password generation,
 middle name generation (or initial, to be decided by user),
+## Update 12/23
+added a simple but realistic address generation mechanic
 custom user name generator (based on generated name),
 and lastly, a desciption adder
 (all future updates are theoretical)
